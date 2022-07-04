@@ -17,8 +17,6 @@
 
 仅限摸金校尉群的同学们参加
 
->QQ文档表格: https://docs.qq.com/sheet/DWEJwZmp1R3haa0tN?u=ec8c98c9882146e49cf3208914734619&tab=BB08J2
-
 1. 报名：在表格中填写【微信昵称】
 2. 观看教程：【地址】
 3. Fork仓库：https://github.com/ezshine/YCY-TrainingCamp-S1
