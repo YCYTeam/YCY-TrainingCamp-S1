@@ -1,0 +1,33 @@
+<html>
+<head>
+    <title>猿创营</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,minimum-scale=1.0,user-scalable=no">
+    <style type="text/css">
+        html,
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        div {
+            width: 100%;
+        }
+    </style>
+    <script src="https://pixijs.download/release/pixi.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/gsap.min.js"></script>
+    <script src="./js/brakebanner.js"></script>
+    <script>
+        window.onload = init;
+
+        function init() {
+            let banner = new BrakeBanner("#brakebanner");
+        }
+    </script>
+</head>
+
+<body>
+    <div id="brakebanner"></div>
+</body>
+
+</html>
