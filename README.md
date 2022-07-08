@@ -18,7 +18,7 @@
 仅限摸金校尉群的同学们参加
 
 1. 报名：在表格中填写【微信昵称】
-2. 观看教程：【地址】
+2. 观看教程：【地址】https://www.bilibili.com/video/BV1q34y1n7dA?spm_id_from=444.41.list.card_archive.click&vd_source=338d9e7c31373890d18dc5b4b26dfbeb
 3. Fork仓库：https://github.com/ezshine/YCY-TrainingCamp-S1
     后在表格中填写自己的github仓库地址
 4. 去掘金写文章，分享学习成果和心得：
